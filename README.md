@@ -132,5 +132,5 @@ Script configurado em `package.json`:
 
 ## Licenca
 
-Este projeto utiliza a licenca ISC.
+Este projeto utiliza a licenca MIT. Consulte o arquivo [LICENSE](LICENSE) para os termos completos.
 
